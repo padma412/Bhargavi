@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment-2</string>
+    <string name="google">Image</string>
+    <string name="please">Please ,SignIn to continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="keep">Keep me logged in</string>
+    <string name="sign">Sign In</string>
+</resources>
