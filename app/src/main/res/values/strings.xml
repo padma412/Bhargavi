@@ -6,4 +6,7 @@
     <string name="password">Password</string>
     <string name="keep">Keep me logged in</string>
     <string name="sign">Sign In</string>
+    <string name="create">Create Account</string>
+    <string name="label1">testUsername</string>
+    <string name="label2">testPassword</string>
 </resources>
