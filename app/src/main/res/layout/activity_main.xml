@@ -44,6 +44,7 @@
         android:gravity="bottom"/>
 
     <EditText
+        android:autofillHints="@string/label1"
         android:hint = "@string/label1"
         android:id="@+id/Edittext1"
         android:layout_width="347dp"
@@ -72,6 +73,7 @@
 
     <EditText
         android:hint="@string/label2"
+        android:autofillHints="@string/label2"
         android:id="@+id/Edittext2"
         android:layout_width="350dp"
         android:layout_height="75dp"
